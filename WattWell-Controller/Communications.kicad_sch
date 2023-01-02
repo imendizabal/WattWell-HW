@@ -1486,6 +1486,11 @@
     (uuid fc1b32f5-f1db-4a9a-8ebb-05cab4feb39e)
   )
 
+  (text "Add a level shifter: 5 --> 3V\n" (at 16.51 26.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid be626397-b9a9-4dd9-98a2-4c087ba61930)
+  )
+
   (label "RTS" (at 68.58 133.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 060df4a9-1ae7-453f-94d1-1d5eadc94812)
