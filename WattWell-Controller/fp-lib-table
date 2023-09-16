@@ -1,4 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Connectors.pretty")(options "")(descr ""))
   (lib (name "Electromechanical")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Electromechanical")(options "")(descr ""))
   (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/IC.pretty")(options "")(descr ""))
@@ -7,4 +8,5 @@
   (lib (name "Processor")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Processor.pretty")(options "")(descr ""))
   (lib (name "Semiconductors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Semiconductors.pretty")(options "")(descr ""))
   (lib (name "Transistors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Transistors.pretty")(options "")(descr ""))
+  (lib (name "Frequency")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Frequency.pretty")(options "")(descr ""))
 )
