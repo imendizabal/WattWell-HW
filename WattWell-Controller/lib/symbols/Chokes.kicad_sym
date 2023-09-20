@@ -6,7 +6,7 @@
     (property "Value" "TCM0403M-350-2P-T210" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "Inductors:Choke_TDK_TCM0403M-350-2P-T210" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://product.tdk.com/en/search/emc/emc/cmf_cmc/info?part_no=TCM0403M-350-2P-T210" (at 11.43 15.24 0)
