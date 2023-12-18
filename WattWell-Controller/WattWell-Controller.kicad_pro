@@ -352,6 +352,18 @@
     [
       "f5c067ca-9506-4f2c-a309-c2c95f7cb551",
       "Dry Contact_4"
+    ],
+    [
+      "29b5adae-f393-454a-8dff-b40b9a48ea2c",
+      "Interfaces"
+    ],
+    [
+      "08901ce8-aa7e-4f87-bff3-f459627c9713",
+      "MCU"
+    ],
+    [
+      "9fa220e9-9b8b-4a5f-a534-440f9586e428",
+      "Power"
     ]
   ],
   "text_variables": {}
