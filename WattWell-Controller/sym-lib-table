@@ -23,4 +23,5 @@
   (lib (name "Transistors_MOSFET")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Transistors_MOSFET.kicad_sym")(options "")(descr ""))
   (lib (name "Oscillators")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Oscillators.kicad_sym")(options "")(descr ""))
   (lib (name "Chokes")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Chokes.kicad_sym")(options "")(descr ""))
+  (lib (name "Testpoints")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/Testpoints.kicad_sym")(options "")(descr ""))
 )

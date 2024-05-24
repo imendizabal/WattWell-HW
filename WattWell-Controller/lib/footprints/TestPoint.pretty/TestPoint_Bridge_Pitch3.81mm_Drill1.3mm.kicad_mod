@@ -1,0 +1,195 @@
+(footprint "TestPoint_Bridge_Pitch3.81mm_Drill1.3mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm")
+	(tags "test point wire loop")
+	(property "Reference" "REF**"
+		(at 1.6 2.4 0)
+		(layer "F.SilkS")
+		(uuid "ecdb85d4-6831-4339-bedb-34cd2db74863")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint_Bridge_Pitch3.81mm_Drill1.3mm"
+		(at 1 -2.1 0)
+		(layer "F.Fab")
+		(uuid "57f9ee49-c4d2-48b5-942c-5adc1d25e625")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "549d7152-c1fc-4897-bf4e-0f381e4fed17")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3eddec37-22ac-454f-9052-3280b78cdbb5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01f6aaa1-babb-493c-87e0-63a925b591b2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.6 -1.6)
+		(end 5.4 -1.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6fe15e75-009e-4965-b0d4-dd2cdc4c6bec")
+	)
+	(fp_line
+		(start -1.6 1.6)
+		(end -1.6 -1.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e03d6c1-5466-4c3b-b810-d6b9480b840b")
+	)
+	(fp_line
+		(start 5.4 -1.6)
+		(end 5.4 1.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a07d8ad8-46ee-43ae-80e2-ac588581af83")
+	)
+	(fp_line
+		(start 5.4 1.6)
+		(end -1.6 1.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "be5e0552-3b00-424e-a981-505b5158c345")
+	)
+	(fp_line
+		(start -1.8 -1.8)
+		(end -1.8 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3443d5a9-90d7-46e3-aebd-a92bb8cf6deb")
+	)
+	(fp_line
+		(start -1.8 -1.8)
+		(end 5.61 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "971b9162-75f7-43f0-bfe5-7e3a392085f4")
+	)
+	(fp_line
+		(start 5.61 1.8)
+		(end -1.8 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb256411-82c0-4dea-ab42-29ada8d14385")
+	)
+	(fp_line
+		(start 5.61 1.8)
+		(end 5.61 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "02b50bcf-b874-4071-860c-ee16fe823a9a")
+	)
+	(fp_line
+		(start 3.81 0)
+		(end 0 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8d27b86b-e610-4dab-84f8-f0d1cc00d4cc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.6 2.4 0)
+		(layer "F.Fab")
+		(uuid "0852df15-53ad-4a39-953c-b1469f2b0fe2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.6 2.6)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "30f204f4-f15b-4efc-bcf7-cfdec2efb8d8")
+	)
+	(pad "1" thru_hole circle
+		(at 3.81 0)
+		(size 2.6 2.6)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1bcca40f-508a-4003-bcaa-d84ba2adc246")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch3.81mm_Drill1.3mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
