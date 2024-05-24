@@ -1838,7 +1838,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "IC:SOIC-8_3.9x4.9mm_P1.27mm"
 				(at -6.35 1.27 0)
 				(effects
 					(font
@@ -2898,7 +2898,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "IC:SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -15932,7 +15932,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IC:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 364.49 82.55 0)
 			(effects
 				(font
@@ -15950,7 +15950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAN Interface IC Industrial Grade CAN TRX with NSIL PIN (SO8)"
 			(at 358.14 83.82 0)
 			(effects
 				(font
@@ -17402,7 +17402,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IC:SOT-23-5"
 			(at 36.83 59.69 0)
 			(effects
 				(font
@@ -17420,7 +17420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Supervisory Circuits Watchdog timer circuit"
 			(at 36.83 59.69 0)
 			(effects
 				(font
