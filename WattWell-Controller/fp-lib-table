@@ -9,4 +9,5 @@
   (lib (name "Semiconductors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Semiconductors.pretty")(options "")(descr ""))
   (lib (name "Transistors")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Transistors.pretty")(options "")(descr ""))
   (lib (name "Frequency")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Frequency.pretty")(options "")(descr ""))
+  (lib (name "Oscillators")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/Oscillators.pretty")(options "")(descr ""))
 )

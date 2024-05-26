@@ -339,17 +339,16 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "K"
-				(at 11.43 3.81 0)
+				(at 11.176 6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 					(justify left)
-					(hide yes)
 				)
 			)
 			(property "Value" "RZH3-1C4-D012"
-				(at 11.43 1.27 0)
+				(at 4.572 33.274 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -358,7 +357,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Electromechanical:Relay_TE_RZH3-1C04-D012"
 				(at 28.702 -0.762 0)
 				(effects
 					(font
@@ -377,7 +376,7 @@
 				)
 			)
 			(property "Description" "General Purpose Relays RZH3-1C4-D012"
-				(at 0 0 0)
+				(at 0.508 35.306 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2199,7 +2198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Electromechanical:Relay_TE_RZH3-1C04-D012"
 			(at 84.328 81.788 0)
 			(effects
 				(font
@@ -2217,7 +2216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Relays RZH3-1C4-D012"
 			(at 113.03 82.55 0)
 			(effects
 				(font
