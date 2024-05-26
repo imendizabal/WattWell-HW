@@ -14734,7 +14734,7 @@
 		(uuid "355bbf0b-91b0-4000-a63b-51929e3cf9d6")
 	)
 	(label "SP1_MOSI"
-		(at 281.94 213.36 180)
+		(at 293.37 213.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15163,7 +15163,7 @@
 		(uuid "ba9c3e54-1ef6-4225-854f-70056fb9dccf")
 	)
 	(label "SP1_SCK"
-		(at 281.94 208.28 180)
+		(at 293.37 208.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15185,7 +15185,7 @@
 		(uuid "c9d7f628-1651-4048-ab7e-280c1abec0a7")
 	)
 	(label "SP1_MISO"
-		(at 281.94 210.82 180)
+		(at 293.37 210.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15531,6 +15531,18 @@
 		)
 		(uuid "8d145232-0501-4474-86e6-69724733f9bb")
 	)
+	(hierarchical_label "SP1_MISO"
+		(shape input)
+		(at 281.94 210.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8d5b46a0-e01c-4fb3-8eeb-db6c9bd03d77")
+	)
 	(hierarchical_label "IN_DIG2"
 		(shape input)
 		(at 281.94 177.8 180)
@@ -15554,6 +15566,18 @@
 			(justify left)
 		)
 		(uuid "a02939a6-b932-4c90-b634-ef6170a43691")
+	)
+	(hierarchical_label "SP1_MOSI"
+		(shape input)
+		(at 281.94 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0ebbad6-47a3-46c7-8f07-b4e5ea280e97")
 	)
 	(hierarchical_label "USB_N"
 		(shape input)
@@ -15650,6 +15674,18 @@
 			(justify right)
 		)
 		(uuid "ebf69162-f541-4e88-b986-8c838db3f4c7")
+	)
+	(hierarchical_label "SP1_SCK"
+		(shape input)
+		(at 281.94 208.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ec33731e-d7ff-43ec-92d9-b208ecfc8cb9")
 	)
 	(hierarchical_label "OUT_DIG3"
 		(shape input)

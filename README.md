@@ -37,9 +37,9 @@ The main control board will be able to measure:
 
 The main control board will have the following interface:
 1.  2X UART(1X to RS485; 1X to USB)
-2.  1X SPI
-3.  1X I2C
-4.  2X CAN
+2.  1xSPI
+3.  2xI2C
+4.  1xCAN
 5.  6X PWM's
 6.  6X DO's
 7.  6X DI's
