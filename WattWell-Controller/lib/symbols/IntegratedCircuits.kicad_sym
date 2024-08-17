@@ -485,7 +485,7 @@
 			)
 		)
 		(property "Description" "8-channel, 24-Bit, Simultaneously-Sampling, Delta-Sigma ADC"
-			(at 0 0 0)
+			(at 11.43 57.658 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -551,7 +551,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -35.56 0)
+				(at -26.67 -38.1 0)
 				(length 2.54)
 				(name "IN8N"
 					(effects
@@ -569,7 +569,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -17.78 0)
+				(at -26.67 -15.24 0)
 				(length 2.54)
 				(name "IN4P"
 					(effects
@@ -587,7 +587,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -10.16 0)
+				(at -26.67 -12.7 0)
 				(length 2.54)
 				(name "IN3N"
 					(effects
@@ -605,7 +605,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -12.7 0)
+				(at -26.67 -10.16 0)
 				(length 2.54)
 				(name "IN3P"
 					(effects
@@ -623,7 +623,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -5.08 0)
+				(at -26.67 -7.62 0)
 				(length 2.54)
 				(name "IN2N"
 					(effects
@@ -641,7 +641,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -7.62 0)
+				(at -26.67 -5.08 0)
 				(length 2.54)
 				(name "IN2P"
 					(effects
@@ -659,7 +659,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 0 0)
+				(at -26.67 -2.54 0)
 				(length 2.54)
 				(name "IN1N"
 					(effects
@@ -677,7 +677,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -2.54 0)
+				(at -26.67 0 0)
 				(length 2.54)
 				(name "IN1P"
 					(effects
@@ -749,7 +749,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -38.1 0)
+				(at -26.67 -35.56 0)
 				(length 2.54)
 				(name "IN8P"
 					(effects
@@ -947,7 +947,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -30.48 0)
+				(at -26.67 -33.02 0)
 				(length 2.54)
 				(name "IN7N"
 					(effects
@@ -1145,7 +1145,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -33.02 0)
+				(at -26.67 -30.48 0)
 				(length 2.54)
 				(name "IN7P"
 					(effects
@@ -1343,7 +1343,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -25.4 0)
+				(at -26.67 -27.94 0)
 				(length 2.54)
 				(name "IN6N"
 					(effects
@@ -1541,7 +1541,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -27.94 0)
+				(at -26.67 -25.4 0)
 				(length 2.54)
 				(name "IN6P"
 					(effects
@@ -1649,7 +1649,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -20.32 0)
+				(at -26.67 -22.86 0)
 				(length 2.54)
 				(name "IN5N"
 					(effects
@@ -1667,7 +1667,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -22.86 0)
+				(at -26.67 -20.32 0)
 				(length 2.54)
 				(name "IN5P"
 					(effects
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(pin input line
-				(at -26.67 -15.24 0)
+				(at -26.67 -17.78 0)
 				(length 2.54)
 				(name "IN4N"
 					(effects

@@ -8376,7 +8376,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 115.57) (xy 68.58 115.57)
+			(xy 449.58 97.79) (xy 443.23 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8436,23 +8436,13 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 99.06) (xy 104.14 99.06)
+			(xy 306.07 81.28) (xy 420.37 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0753d71d-fa24-4f2a-a061-3316f346496e")
-	)
-	(wire
-		(pts
-			(xy 91.44 116.84) (xy 105.41 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08524c48-6e03-4b32-aa44-7e017d084d32")
 	)
 	(wire
 		(pts
@@ -8636,7 +8626,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 113.03) (xy 68.58 113.03)
+			(xy 449.58 95.25) (xy 443.23 95.25)
 		)
 		(stroke
 			(width 0)
@@ -8646,7 +8636,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 102.87) (xy 68.58 102.87)
+			(xy 449.58 85.09) (xy 443.23 85.09)
 		)
 		(stroke
 			(width 0)
@@ -8716,7 +8706,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 77.47) (xy 68.58 77.47)
+			(xy 449.58 59.69) (xy 443.23 59.69)
 		)
 		(stroke
 			(width 0)
@@ -8726,7 +8716,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 120.65) (xy 68.58 120.65)
+			(xy 449.58 102.87) (xy 443.23 102.87)
 		)
 		(stroke
 			(width 0)
@@ -8886,7 +8876,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 95.25) (xy 68.58 95.25)
+			(xy 449.58 77.47) (xy 443.23 77.47)
 		)
 		(stroke
 			(width 0)
@@ -8913,6 +8903,16 @@
 			(type default)
 		)
 		(uuid "23b0a056-2047-4ce9-8b05-8fc2cda5f718")
+	)
+	(wire
+		(pts
+			(xy 306.07 81.28) (xy 306.07 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b567f1-ee2c-41b4-bcc8-d54069066eea")
 	)
 	(wire
 		(pts
@@ -9046,7 +9046,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 81.28) (xy 104.14 81.28)
+			(xy 303.53 63.5) (xy 420.37 63.5)
 		)
 		(stroke
 			(width 0)
@@ -9096,7 +9096,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 82.55) (xy 68.58 82.55)
+			(xy 449.58 64.77) (xy 443.23 64.77)
 		)
 		(stroke
 			(width 0)
@@ -9236,7 +9236,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 130.81) (xy 68.58 130.81)
+			(xy 449.58 113.03) (xy 443.23 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9286,7 +9286,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 80.01) (xy 68.58 80.01)
+			(xy 449.58 62.23) (xy 443.23 62.23)
 		)
 		(stroke
 			(width 0)
@@ -9546,7 +9546,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 85.09) (xy 68.58 85.09)
+			(xy 449.58 67.31) (xy 443.23 67.31)
 		)
 		(stroke
 			(width 0)
@@ -9836,13 +9836,23 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 97.79) (xy 68.58 97.79)
+			(xy 449.58 80.01) (xy 443.23 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "60c4226f-f6a3-42eb-979e-35f1bc7f0536")
+	)
+	(wire
+		(pts
+			(xy 308.61 99.06) (xy 308.61 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6107eb76-df20-440e-a2e0-76c9024727aa")
 	)
 	(wire
 		(pts
@@ -9933,6 +9943,16 @@
 			(type default)
 		)
 		(uuid "67d48234-5fc9-4cd6-9d10-5d9ec8cd5233")
+	)
+	(wire
+		(pts
+			(xy 308.61 99.06) (xy 420.37 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6834c10a-b379-4289-9717-afb4ddc59d08")
 	)
 	(wire
 		(pts
@@ -10076,7 +10096,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 138.43) (xy 68.58 138.43)
+			(xy 449.58 120.65) (xy 443.23 120.65)
 		)
 		(stroke
 			(width 0)
@@ -10183,6 +10203,16 @@
 			(type default)
 		)
 		(uuid "7cc198c6-eae9-4e9e-a53c-d8f030f6e87e")
+	)
+	(wire
+		(pts
+			(xy 303.53 63.5) (xy 303.53 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d15ec21-b0af-4082-9ba1-ca034e9cc03e")
 	)
 	(wire
 		(pts
@@ -10816,7 +10846,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 134.62) (xy 105.41 134.62)
+			(xy 311.15 116.84) (xy 420.37 116.84)
 		)
 		(stroke
 			(width 0)
@@ -10946,6 +10976,16 @@
 	)
 	(wire
 		(pts
+			(xy 311.15 116.84) (xy 311.15 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abe7a33a-24a9-44ca-a318-c672b177367b")
+	)
+	(wire
+		(pts
 			(xy 326.39 34.29) (xy 332.74 34.29)
 		)
 		(stroke
@@ -10966,7 +11006,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 133.35) (xy 68.58 133.35)
+			(xy 449.58 115.57) (xy 443.23 115.57)
 		)
 		(stroke
 			(width 0)
@@ -11776,7 +11816,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 100.33) (xy 68.58 100.33)
+			(xy 449.58 82.55) (xy 443.23 82.55)
 		)
 		(stroke
 			(width 0)
@@ -11826,7 +11866,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 118.11) (xy 68.58 118.11)
+			(xy 449.58 100.33) (xy 443.23 100.33)
 		)
 		(stroke
 			(width 0)
@@ -11856,7 +11896,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 135.89) (xy 68.58 135.89)
+			(xy 449.58 118.11) (xy 443.23 118.11)
 		)
 		(stroke
 			(width 0)
@@ -12233,6 +12273,17 @@
 		)
 		(uuid "20fe1cdb-920e-4036-9bd2-6ab050d26b42")
 	)
+	(label "OUT_DRY3"
+		(at 406.4 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c0ff380-f25b-450c-a5b6-ada7b82aa78c")
+	)
 	(label "CAN_N"
 		(at 246.38 237.49 0)
 		(fields_autoplaced yes)
@@ -12245,13 +12296,13 @@
 		(uuid "32f8e214-5e85-4c5c-93da-3ea74b3a6359")
 	)
 	(label "OUT_DRY1"
-		(at 104.14 81.28 180)
+		(at 407.67 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "37430c79-44ad-4b78-abef-77394d385d90")
 	)
@@ -12509,13 +12560,13 @@
 		(uuid "ac6551fe-b2c1-4f02-9863-435e9c08a41b")
 	)
 	(label "OUT_DRY2"
-		(at 104.14 99.06 180)
+		(at 407.67 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "ad59d146-e9c7-4048-9148-7b2e40ba270d")
 	)
@@ -12529,6 +12580,17 @@
 			(justify left bottom)
 		)
 		(uuid "b44b0883-4888-4934-9fd7-b412be1cf012")
+	)
+	(label "OUT_DRY4"
+		(at 406.4 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9680bb1-2b3b-4273-9592-96ab88d1e0bd")
 	)
 	(label "JTDO"
 		(at 238.76 142.24 180)
@@ -13964,6 +14026,118 @@
 		)
 	)
 	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ea05daf-f8bb-4254-8d00-f6ea9a31db87")
+		(property "Reference" "J11"
+			(at 459.994 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 455.168 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04f9b7d2-65e3-44ba-89c7-012fbe31b48e")
+		)
+		(pin "2"
+			(uuid "4ce3cd14-d5b8-4437-b5f0-691e5487e857")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "DCDC:TPS54331DR")
 		(at 215.9 40.64 0)
 		(unit 1)
@@ -14648,6 +14822,118 @@
 		)
 	)
 	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "38370209-623e-465c-8645-6c5e1d58fb86")
+		(property "Reference" "J14"
+			(at 455.168 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 458.724 94.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18b771b3-bbca-4c35-aa17-85ecb4a4edad")
+		)
+		(pin "2"
+			(uuid "a2d1963f-47ac-43d9-a2b0-4d947bb07725")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 233.68 44.45 0)
 		(unit 1)
@@ -15072,6 +15358,230 @@
 			(project "WattWell-Controller"
 				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
 					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c0a21da-b2c5-4aeb-9f18-e85c825ea4aa")
+		(property "Reference" "J17"
+			(at 458.978 119.888 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 458.724 117.602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7665014d-9a79-41c9-ad3c-cae3217be9cd")
+		)
+		(pin "2"
+			(uuid "6aef1f42-99e8-4fb2-a916-ce583591ab42")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4cba89c5-63b2-4f0f-87ff-a24f23184779")
+		(property "Reference" "J13"
+			(at 455.168 74.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 458.724 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63938a7e-5d3f-4eef-b78c-17184acfeefe")
+		)
+		(pin "2"
+			(uuid "2f731be1-719a-4e51-97bd-d5652f084f1f")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -17524,6 +18034,230 @@
 		)
 	)
 	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "98d4a72a-eb7c-43c5-89c0-480c6f2e3947")
+		(property "Reference" "J12"
+			(at 454.914 89.662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 455.168 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20ffbbe7-f92d-4309-aca8-a367febb488f")
+		)
+		(pin "2"
+			(uuid "58bf6b5a-67de-4a4b-baae-8234fc6fc81d")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e375abf-78ad-4aa2-948f-2741df0696f4")
+		(property "Reference" "J15"
+			(at 459.232 102.362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 455.93 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f11cdea1-daa7-45bb-b5b4-8a258f1f40bd")
+		)
+		(pin "2"
+			(uuid "78c69988-cfea-433e-b088-fa164470874b")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diodes:PESD3V3L2BT")
 		(at 351.79 186.69 0)
 		(mirror y)
@@ -18009,6 +18743,118 @@
 			(project "WattWell-Controller"
 				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
 					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6405b3c-5178-4179-bf0a-bcd00827e558")
+		(property "Reference" "J16"
+			(at 455.168 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 458.724 112.522 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71f03c3a-4312-4a39-a12c-708b907e3cab")
+		)
+		(pin "2"
+			(uuid "ea071533-342f-4859-957b-91889e893047")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -18738,6 +19584,119 @@
 			(project "WattWell-Controller"
 				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:1x02")
+		(at 454.66 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbe3bbc3-3c28-4c93-b9d8-da0066cd0f19")
+		(property "Reference" "J10"
+			(at 454.66 55.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1x02"
+			(at 454.66 57.3311 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:WURTH-691312510002"
+			(at 454.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/691312510002.pdf"
+			(at 454.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 463.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "691312510002"
+			(at 480.06 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 459.74 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "710-691312510002"
+			(at 482.6 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.274"
+			(at 458.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aea220e4-ac97-40d7-8f88-8f8805285bb5")
+		)
+		(pin "2"
+			(uuid "02f2d54e-9119-4d92-8f55-244671153f73")
+		)
+		(instances
+			(project "WattWell-Controller"
+				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -20879,8 +21838,8 @@
 		)
 	)
 	(sheet
-		(at 259.08 133.604)
-		(size 77.47 115.062)
+		(at 259.08 133.35)
+		(size 77.47 115.316)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -20890,7 +21849,7 @@
 		)
 		(uuid "08901ce8-aa7e-4f87-bff3-f459627c9713")
 		(property "Sheetname" "MCU"
-			(at 260.35 132.588 0)
+			(at 260.35 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20899,7 +21858,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 259.08 241.8846 0)
+			(at 259.334 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21178,7 +22137,7 @@
 			(uuid "8995a924-9728-41a9-857a-b7c3dd9dcbb5")
 		)
 		(pin "OUT_DRY1" input
-			(at 294.64 133.604 90)
+			(at 303.53 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21188,7 +22147,7 @@
 			(uuid "79ca50e8-5597-4225-99cc-b2228951cbe4")
 		)
 		(pin "OUT_DRY3" input
-			(at 292.1 133.604 90)
+			(at 308.61 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21198,7 +22157,7 @@
 			(uuid "27c796e5-aa63-48e2-bea7-12dd3107c9d9")
 		)
 		(pin "OUT_DRY2" input
-			(at 298.45 133.604 90)
+			(at 306.07 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21208,7 +22167,7 @@
 			(uuid "6d5b0545-06b4-48a9-99cb-1bc19fb93737")
 		)
 		(pin "OUT_DRY4" input
-			(at 289.56 133.604 90)
+			(at 311.15 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21227,6 +22186,96 @@
 			)
 			(uuid "f5663189-d542-4314-8fb3-a65924aa22b3")
 		)
+		(pin "SP1_SCK" input
+			(at 281.94 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9275c9d1-2507-4be7-b130-ba0addb5311a")
+		)
+		(pin "SP1_MISO" input
+			(at 289.56 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "68f2a3bd-1899-4aa4-aa9b-2faa01a8fd15")
+		)
+		(pin "SP1_MOSI" input
+			(at 279.4 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3fc98666-1796-4670-ad70-59fecb88d1b7")
+		)
+		(pin "IN_AN1" input
+			(at 336.55 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3695434b-4246-45f5-b196-4b5210f9ffdc")
+		)
+		(pin "IN_AN2" input
+			(at 336.55 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bcc14d4f-b693-42a6-8153-8d8d8a8679dc")
+		)
+		(pin "IN_AN5" input
+			(at 336.55 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8c6f6356-4a52-4a40-a7b5-6608ff95d94c")
+		)
+		(pin "IN_AN3" input
+			(at 336.55 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f6badc50-3660-45ad-9333-e22f99ba5c97")
+		)
+		(pin "IN_AN4" input
+			(at 336.55 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "15416bbd-df09-49f4-a5fb-f7e29175407b")
+		)
+		(pin "IN_AN6" input
+			(at 336.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "165b30a9-bac6-4a07-938b-f4c3051ddf3a")
+		)
 		(instances
 			(project "WattWell-Controller"
 				(path "/fe611e94-02ee-40e6-8bd7-62c542c8eaed"
@@ -21236,7 +22285,7 @@
 		)
 	)
 	(sheet
-		(at 68.58 74.93)
+		(at 420.37 57.15)
 		(size 22.86 11.43)
 		(stroke
 			(width 0.1524)
@@ -21247,7 +22296,7 @@
 		)
 		(uuid "52cecfc3-ccb5-4602-a212-33fec2e1bc09")
 		(property "Sheetname" "Dry Contact_1"
-			(at 68.58 74.2184 0)
+			(at 420.37 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21256,7 +22305,7 @@
 			)
 		)
 		(property "Sheetfile" "Dry Contact.kicad_sch"
-			(at 67.31 87.63 0)
+			(at 419.1 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21265,52 +22314,52 @@
 			)
 		)
 		(pin "DRY_V" input
-			(at 68.58 77.47 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "5aec3c52-5525-4910-b4b0-c252113c2de0")
-		)
-		(pin "DRY_CONT" input
-			(at 68.58 80.01 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "8c3b703c-249b-4310-b1e5-3aac5cc32c12")
-		)
-		(pin "DRY_O" input
-			(at 68.58 82.55 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "43d47554-d49a-465a-a082-e7989ba54e9e")
-		)
-		(pin "DRY_C" input
-			(at 68.58 85.09 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "9dee0ac2-22bc-4c04-a488-8f9e7a468649")
-		)
-		(pin "DRY_IN" input
-			(at 91.44 81.28 0)
+			(at 443.23 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+			(uuid "5aec3c52-5525-4910-b4b0-c252113c2de0")
+		)
+		(pin "DRY_CONT" input
+			(at 443.23 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8c3b703c-249b-4310-b1e5-3aac5cc32c12")
+		)
+		(pin "DRY_O" input
+			(at 443.23 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "43d47554-d49a-465a-a082-e7989ba54e9e")
+		)
+		(pin "DRY_C" input
+			(at 443.23 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9dee0ac2-22bc-4c04-a488-8f9e7a468649")
+		)
+		(pin "DRY_IN" input
+			(at 420.37 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 			(uuid "d2ce8273-295d-46ae-8ff1-78740a3d1ecf")
 		)
@@ -21323,7 +22372,7 @@
 		)
 	)
 	(sheet
-		(at 68.58 92.71)
+		(at 420.37 74.93)
 		(size 22.86 11.43)
 		(stroke
 			(width 0.1524)
@@ -21334,7 +22383,7 @@
 		)
 		(uuid "7ffa54c6-518e-40b0-abba-b346713d37d1")
 		(property "Sheetname" "Dry Contact_2"
-			(at 68.58 91.9984 0)
+			(at 420.37 74.2184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21343,7 +22392,7 @@
 			)
 		)
 		(property "Sheetfile" "Dry Contact.kicad_sch"
-			(at 67.31 105.41 0)
+			(at 419.1 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21352,52 +22401,52 @@
 			)
 		)
 		(pin "DRY_V" input
-			(at 68.58 95.25 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "a77cc55a-c82c-496c-9806-1236fca70c57")
-		)
-		(pin "DRY_CONT" input
-			(at 68.58 97.79 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "3d90a25d-a5d9-4472-b2a5-2eca987e696d")
-		)
-		(pin "DRY_O" input
-			(at 68.58 100.33 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "282b7bcf-ff48-429a-8d6c-9942fa737232")
-		)
-		(pin "DRY_C" input
-			(at 68.58 102.87 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "b9430504-85db-4b19-b890-e919060e538e")
-		)
-		(pin "DRY_IN" input
-			(at 91.44 99.06 0)
+			(at 443.23 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+			(uuid "a77cc55a-c82c-496c-9806-1236fca70c57")
+		)
+		(pin "DRY_CONT" input
+			(at 443.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3d90a25d-a5d9-4472-b2a5-2eca987e696d")
+		)
+		(pin "DRY_O" input
+			(at 443.23 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "282b7bcf-ff48-429a-8d6c-9942fa737232")
+		)
+		(pin "DRY_C" input
+			(at 443.23 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b9430504-85db-4b19-b890-e919060e538e")
+		)
+		(pin "DRY_IN" input
+			(at 420.37 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 			(uuid "3adadaf1-4e2e-43a3-a13c-b773bab4b40e")
 		)
@@ -21410,7 +22459,7 @@
 		)
 	)
 	(sheet
-		(at 68.58 110.49)
+		(at 420.37 92.71)
 		(size 22.86 11.43)
 		(stroke
 			(width 0.1524)
@@ -21421,7 +22470,7 @@
 		)
 		(uuid "84ce9150-2d78-46f0-9b28-1846d032240f")
 		(property "Sheetname" "Dry Contact_3"
-			(at 68.58 109.7784 0)
+			(at 420.37 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21430,7 +22479,7 @@
 			)
 		)
 		(property "Sheetfile" "Dry Contact.kicad_sch"
-			(at 67.31 123.19 0)
+			(at 419.1 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21439,52 +22488,52 @@
 			)
 		)
 		(pin "DRY_V" input
-			(at 68.58 113.03 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "42d42621-35f5-4416-936a-5315c0700c32")
-		)
-		(pin "DRY_CONT" input
-			(at 68.58 115.57 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "760de288-eb90-4fa1-a091-69143ffd5926")
-		)
-		(pin "DRY_O" input
-			(at 68.58 118.11 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "689eff28-6f2b-469a-b83b-29dc7556877c")
-		)
-		(pin "DRY_C" input
-			(at 68.58 120.65 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "f8bcd092-689f-43ab-9b26-3e22faf08c84")
-		)
-		(pin "DRY_IN" input
-			(at 91.44 116.84 0)
+			(at 443.23 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+			(uuid "42d42621-35f5-4416-936a-5315c0700c32")
+		)
+		(pin "DRY_CONT" input
+			(at 443.23 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "760de288-eb90-4fa1-a091-69143ffd5926")
+		)
+		(pin "DRY_O" input
+			(at 443.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "689eff28-6f2b-469a-b83b-29dc7556877c")
+		)
+		(pin "DRY_C" input
+			(at 443.23 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f8bcd092-689f-43ab-9b26-3e22faf08c84")
+		)
+		(pin "DRY_IN" input
+			(at 420.37 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 			(uuid "437595a4-cbbd-4a12-b744-e1f61c24e396")
 		)
@@ -21497,7 +22546,7 @@
 		)
 	)
 	(sheet
-		(at 68.58 128.27)
+		(at 420.37 110.49)
 		(size 22.86 11.43)
 		(stroke
 			(width 0.1524)
@@ -21508,7 +22557,7 @@
 		)
 		(uuid "f5c067ca-9506-4f2c-a309-c2c95f7cb551")
 		(property "Sheetname" "Dry Contact_4"
-			(at 68.58 127.5584 0)
+			(at 420.37 109.7784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21517,7 +22566,7 @@
 			)
 		)
 		(property "Sheetfile" "Dry Contact.kicad_sch"
-			(at 67.31 140.97 0)
+			(at 419.1 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21526,52 +22575,52 @@
 			)
 		)
 		(pin "DRY_V" input
-			(at 68.58 130.81 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "755d8060-571b-4130-9239-2d7dce173768")
-		)
-		(pin "DRY_CONT" input
-			(at 68.58 133.35 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "ccdc20d4-d1f5-4c48-a2e1-4d75d4afd193")
-		)
-		(pin "DRY_O" input
-			(at 68.58 135.89 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "ba2a0ee3-2b40-42a8-be1f-30e0d0c1eb29")
-		)
-		(pin "DRY_C" input
-			(at 68.58 138.43 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "2d9ce12f-dc0e-4a02-8347-dbd2e9445fde")
-		)
-		(pin "DRY_IN" input
-			(at 91.44 134.62 0)
+			(at 443.23 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+			(uuid "755d8060-571b-4130-9239-2d7dce173768")
+		)
+		(pin "DRY_CONT" input
+			(at 443.23 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ccdc20d4-d1f5-4c48-a2e1-4d75d4afd193")
+		)
+		(pin "DRY_O" input
+			(at 443.23 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ba2a0ee3-2b40-42a8-be1f-30e0d0c1eb29")
+		)
+		(pin "DRY_C" input
+			(at 443.23 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2d9ce12f-dc0e-4a02-8347-dbd2e9445fde")
+		)
+		(pin "DRY_IN" input
+			(at 420.37 116.84 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 			(uuid "739082a0-8842-4d25-9243-48ad67dc4a47")
 		)
